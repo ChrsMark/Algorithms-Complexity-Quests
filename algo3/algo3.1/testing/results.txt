@@ -1,0 +1,15 @@
+tescase1 finished with success !!! 
+tescase2 gave wrong output !!!
+tescase3 finished with success !!! 
+tescase4 finished with success !!! 
+tescase5 finished with success !!! 
+tescase6 gave wrong output !!!
+tescase7 gave wrong output !!!
+tescase8 finished with success !!! 
+tescase9 gave wrong output !!!
+tescase10 gave wrong output !!!
+tescase11 finished with success !!! 
+tescase12 finished with success !!! 
+tescase13 finished with success !!! 
+tescase14 gave wrong output !!!
+tescase15 finished with success !!! 
